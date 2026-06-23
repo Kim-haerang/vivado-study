@@ -1,0 +1,42 @@
+# Vivado generated folders
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.srcs/sim_1/
+
+# Vivado generated files
+*.jou
+*.log
+*.rpt
+*.dcp
+*.bit
+*.wdb
+*.xsa
+*.ltx
+*.str
+*.mcs
+*.prm
+*.bin
+*.mmi
+*.pb
+*.xml
+*.html
+*.zip
+
+# SDK/Vitis/build artifacts
+*.elf
+*.o
+*.d
+*.a
+Debug/
+Release/
+_ide/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
