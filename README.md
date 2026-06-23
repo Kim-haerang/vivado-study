@@ -47,6 +47,16 @@ verilog-vivado-study/
 | TFT display | `lab13_tft_fpga`, `final_project/tft` | RGB signal, horizontal/vertical timing, BRAM control |
 | AXI/IP | `ip_repo`, `project_13_soc` | register set, dual RAM, AXI peripheral structure |
 
+## 현재 포함된 소스
+
+이 저장소에는 원본 Vivado 폴더에서 직접 작성한 것으로 보이는 대표 Verilog 소스만 선별해 넣었습니다.
+
+| 폴더 | 내용 |
+| --- | --- |
+| `src/02_seven_segment` | 4자리 seven-segment 표시 제어 |
+| `src/04_ultrasonic_sensor_lcd` | 초음파 센서 거리 측정과 LCD 출력 흐름 |
+| `src/05_tft_display` | TFT display timing, RGB 출력, BRAM 제어 |
+
 ## 대표 소스 파일
 
 원본 작업 폴더에서 확인한 예시 파일입니다.
