@@ -1,6 +1,6 @@
 # Verilog / Vivado 학습 기록
 
-Verilog와 Xilinx Vivado를 사용해 디지털 회로, FPGA 주변장치, AXI IP 개발 흐름을 학습한 기록입니다. Vivado 작업 폴더에는 자동 생성 파일이 많기 때문에 직접 작성한 Verilog 소스와 제약 파일 중심으로 정리했습니다.
+Verilog HDL을 사용해 디지털 회로, FPGA 주변장치, AXI IP 개발을 실습한 기록입니다. 보드: Xilinx Ultra96-V2 (Vivado). Vivado 작업 폴더에는 자동 생성 파일이 많기 때문에 직접 작성한 Verilog 소스와 제약 파일 중심으로 정리했습니다.
 
 원본 학습 폴더: D:\vivado_code
 
