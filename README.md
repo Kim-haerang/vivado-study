@@ -1,5 +1,7 @@
 # Verilog / Vivado 학습 기록
 
+학교 수업에서 진행한 FPGA 실습입니다. 대한상공회의소 과정의 RV32I 팀 프로젝트는 [rv32i-apb-uvm](https://github.com/Kim-haerang/rv32i-apb-uvm)에 정리했습니다.
+
 Verilog HDL을 사용해 디지털 회로, FPGA 주변장치, AXI IP 개발을 실습한 기록입니다. 보드: Xilinx Ultra96-V2 (Vivado).
 ## 폴더 구조
 
